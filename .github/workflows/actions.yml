@@ -20,8 +20,9 @@ jobs:
           github_user_name: mohammad-osoolian
           # these next 2 lines generate the files on a branch called "output". This keeps the main branch from cluttering up.
           outputs: |
-            dist/github-contribution-grid-snake.gif
-            dist/github-contribution-grid-snake.svg
+            dist/dark.gif?palette=github-dark&color_snake=blue
+            dist/light.gif?color_snake=#7845ab
+            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
           
 
      # show the status of the build. Makes it easier for debugging (if there's any issues).
