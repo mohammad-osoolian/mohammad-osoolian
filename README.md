@@ -14,5 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![snake gif](https://github.com/mohammad-osoolian/mohammad-osoolian/blob/output/github-contribution-grid-snake.gif)
+## Watch my contribution graph get eaten by the snake 🐍 <img src="https://github.com/sharyash81/sharyash81/blob/output/github-contribution-grid-snake.gif">
