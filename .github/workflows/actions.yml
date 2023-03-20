@@ -14,7 +14,7 @@ jobs:
       - uses: actions/checkout@v2
 
     # Generates the snake  
-      - uses: Platane/snk@v2.1.0
+      - uses: Platane/snk@3acebc09eb8ab0e86b3df011dd483a6d3724d280
         id: snake-gif
         with:
           github_user_name: mohammad-osoolian
